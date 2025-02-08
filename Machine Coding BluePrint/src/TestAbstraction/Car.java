@@ -1,6 +1,6 @@
 package TestAbstraction;
 
-public class Car extends  Vehicle{
+public class Car extends Vehicle{
     private int noOfDoors;
     public Car() {
         super(4);
@@ -14,4 +14,8 @@ public class Car extends  Vehicle{
         System.out.println("Vroom Vroom");
     }
 
+    @Override
+    public void start() {
+        super.commute();
+    }
 }

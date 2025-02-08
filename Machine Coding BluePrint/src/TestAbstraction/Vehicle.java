@@ -1,6 +1,6 @@
 package TestAbstraction;
 
-public abstract class Vehicle {
+public abstract class Vehicle implements Transport{
     private int noOfTyres;
 
     public abstract void makeStartSound();
