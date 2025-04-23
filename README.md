@@ -1,3 +1,15 @@
+##Improved Readability:
+
+ - Reformatted comments for a cleaner and structured approach.
+
+ - Grouped related logic and explanations under appropriate functions.
+
+##Better Maintainability:
+
+ - Added comments to helper methods to clarify their purpose.
+
+ - Ensured logical flow between the ATM's functionality.
+
 ##AtmMachine_StateDesignPattern
 Overview
 The AtmMachine_StateDesignPattern project implements an ATM machine using the State Design Pattern. This design pattern helps manage the states of an object and transitions between them efficiently.
