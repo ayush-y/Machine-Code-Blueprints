@@ -1,10 +1,10 @@
-##Improved Readability:
+###Improved Readability:
 
  - Reformatted comments for a cleaner and structured approach.
 
  - Grouped related logic and explanations under appropriate functions.
 
-##Better Maintainability:
+###Better Maintainability:
 
  - Added comments to helper methods to clarify their purpose.
 
